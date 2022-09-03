@@ -80,6 +80,10 @@ My name is Andrei and I am a junior software developer.
         <img alt="React"
              src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=6DBFB"/>
 	</a>
+    <a href="#">
+        <img alt="Angular"
+             src="https://img.shields.io/badge/Angular-b3b3b3?style=for-the-badge&logo=angular&logoColor=dd1b16"/>
+	</a>
 </p>
 
 ### Databases
