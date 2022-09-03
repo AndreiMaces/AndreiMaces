@@ -76,6 +76,10 @@ My name is Andrei and I am a junior software developer.
         <img alt="Bootstrap 5"
              src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 	</a>
+     <a href="#">
+        <img alt="React"
+             src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=6DBFB"/>
+	</a>
 </p>
 
 ### Databases
