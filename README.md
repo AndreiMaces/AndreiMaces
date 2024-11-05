@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrei and I am a junior fullstack developer.
+My name is Andrei and I am a fullstack developer.
 
 ## 🙋‍♂️ Connect with me
 
