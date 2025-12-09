@@ -11,12 +11,6 @@ My name is Andrei and I am a fullstack developer.
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<p>
-  <a align="center" href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=AndreiMaces&theme=monokai&column=8&no-frame=true&no-bg=true">
-  </a>
-</p>
-
 ## My stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/karimcambridge/github-readme-streak-stats -->
